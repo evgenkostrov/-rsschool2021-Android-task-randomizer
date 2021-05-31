@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="randomizer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/randomizer.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
